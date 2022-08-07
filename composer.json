@@ -1,4 +1,6 @@
 {
+	"name": "theoleonet/helpers",
+	"description": "All my helper classes",
 	"require-dev": {
 		"vimeo/psalm": "^4.26"
 	},
