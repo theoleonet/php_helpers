@@ -2,7 +2,7 @@
 
 namespace TheoLeonet;
 
-class SrcsetMaker
+class MakeSrcset
 {
 	public function __construct(string $image_path, array $sizes) {
 		$this->make_srcset($image_path, $sizes);
